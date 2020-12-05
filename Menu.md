@@ -9,7 +9,7 @@
 ## 31/12
 
 ## Ideas
-- [Greek Moussaka](/Greek Moussaka.md)
+- [Greek Moussaka](Greek%20Moussaka.md)
 
 
 
