@@ -2,8 +2,6 @@
 [Inspiration](https://www.themediterraneandish.com/vegetarian-moussaka-recipe/)
 
 ## Ingredients
-
-
     - cinnamon
     - grated cheese
 
@@ -41,15 +39,11 @@ Vegetables
 1. Chop the eggplant and the potato 
 2. Sprinkle both with salt, pepper and olive oil
 3. Fry them separately in the air fryer, maximum heat 10-15 min
-
-Tomato-Lentils Sauce
 4. Pre cook lentils with salt then drain
 5. Chop the onions, carrots, green pods, green/red pepper
 6. Sauter the onion, add the green/red pepper and then the rest of the vegetables
 7. Add the tomato sauce and paste
 8. Add the the lentils
-
-Bechamel
 9. Grate the onions
 10. Sauter the grated onion in the butter
 11. Sauter the flour and turn of the stove
@@ -57,8 +51,6 @@ Bechamel
 13. Sprinkle salt, nutmeg and ground pepper
 14. Turn of the stove, whisk the 3 egg yolks and add them to the sauce
 15. Turn on the stove, add the grated cheese and whisk
-
-Assemble
 16. Add olive oil to the bottom and add in order:
     - the eggplant
     - the tomato-lentil sauce with cinnamon
